@@ -10,3 +10,21 @@ Full release currently TBD, most likely mid/late June.
 
 # Planned Features
 Toaster Launcher, Metal Lid, and Bottles as new weapons
+
+# Credits
+<b>Developer</b>
+RitPigDev
+
+<b>Weapon Inspiration</b>
+RitPigDev
+KatieOfAutism (github.com/katieofautism)
+Everyday household objects
+
+<b>Weapon Statistics</b>
+KatieOfAutism (github.com/katieofautism)
+
+<b>Music</b>
+RitPigDev
+
+<b>Modeling</b>
+RitPigDev
