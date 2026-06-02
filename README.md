@@ -12,7 +12,7 @@ Full release currently TBD, most likely mid/late June.
 Toaster Launcher, Metal Lid, and Bottles as new weapons
 
 # Credits
-<b>Developer</b>
+<b>Developer:</b>
 RitPigDev
 
 <b>Weapon Inspiration</b>
