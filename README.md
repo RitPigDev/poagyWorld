@@ -15,16 +15,16 @@ Toaster Launcher, Metal Lid, and Bottles as new weapons
 <b>Developer:</b>
 RitPigDev
 
-<b>Weapon Inspiration</b>
-RitPigDev
-KatieOfAutism (github.com/katieofautism)
+<b>Weapon Inspiration:</b>
+RitPigDev,
+KatieOfAutism (github.com/katieofautism),
 Everyday household objects
 
-<b>Weapon Statistics</b>
+<b>Weapon Statistics:</b>
 KatieOfAutism (github.com/katieofautism)
 
-<b>Music</b>
+<b>Music:</b>
 RitPigDev
 
-<b>Modeling</b>
+<b>Modeling:</b>
 RitPigDev
