@@ -15,6 +15,10 @@ Toaster Launcher, Metal Lid, and Bottles as new weapons
 <b>Developer:</b>
 RitPigDev
 
+<b>Pre-Demo Game Testers:</b>
+KatieOfAutism (github.com/KatieOfAutism),
+Br1ngle (github.com/Br1ngle)
+
 <b>Weapon Inspiration:</b>
 RitPigDev,
 KatieOfAutism (github.com/katieofautism),
@@ -28,3 +32,6 @@ RitPigDev
 
 <b>Modeling:</b>
 RitPigDev
+
+<b>Art:</b>
+Br1ngle (github.com/Br1ngle)
