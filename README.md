@@ -4,9 +4,7 @@ A full singleplayer or multiplayer RPG based around Poags.
 This game has taken up most of my time for the past three months.
 
 # Release Date
-Demo release has been delayed to mid June.
-
-Full release currently TBD, most likely late June or early July.
+Demo releasing sometime late this year.
 
 # Planned Features
 Toaster Launcher, Metal Lid, and Bottles as new weapons
