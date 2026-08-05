@@ -1,3 +1,6 @@
+# The poagyWorld RPG project has concluded.
+As of July 19th, the poagyWorld RPG has ceased development and will no longer be available. <b>Assets from the game will be migrated over to other projects.</b>
+
 # poagyWorld RPG
 A full singleplayer or multiplayer RPG based around Poags.
 
